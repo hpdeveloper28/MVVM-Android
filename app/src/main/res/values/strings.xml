@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Sample</string>
+    <string name="perform_operation">Perform Operation</string>
+</resources>
