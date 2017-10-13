@@ -1,11 +1,12 @@
-package mobiquity.mvvmsample.activities;
+package com.hpdeveloper.mvvmandroid.activities;
 
 import android.os.Bundle;
 
-import mobiquity.mvvmsample.R;
-import mobiquity.mvvmsample.databinding.ActivitySecondBinding;
-import mobiquity.mvvmsample.view.MainActivityView;
-import mobiquity.mvvmsample.viewmodel.SecondActivityViewModel;
+import com.hpdeveloper.mvvmandroid.R;
+import com.hpdeveloper.mvvmandroid.databinding.ActivitySecondBinding;
+import com.hpdeveloper.mvvmandroid.view.MainActivityView;
+import com.hpdeveloper.mvvmandroid.viewmodel.SecondActivityViewModel;
+
 
 public class SecondActivity extends BaseActivity<ActivitySecondBinding, SecondActivityViewModel> implements MainActivityView {
 

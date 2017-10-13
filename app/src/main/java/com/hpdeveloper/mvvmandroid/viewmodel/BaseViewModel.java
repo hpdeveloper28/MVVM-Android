@@ -1,6 +1,6 @@
-package mobiquity.mvvmsample.viewmodel;
+package com.hpdeveloper.mvvmandroid.viewmodel;
 
-import mobiquity.mvvmsample.view.IView;
+import com.hpdeveloper.mvvmandroid.view.IView;
 
 /**
  * Created by hirenpatel on 13/10/17.

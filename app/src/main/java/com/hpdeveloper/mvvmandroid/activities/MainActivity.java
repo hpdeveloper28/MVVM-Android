@@ -1,13 +1,14 @@
-package mobiquity.mvvmsample.activities;
+package com.hpdeveloper.mvvmandroid.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import mobiquity.mvvmsample.R;
-import mobiquity.mvvmsample.databinding.ActivityMainBinding;
-import mobiquity.mvvmsample.view.MainActivityView;
-import mobiquity.mvvmsample.viewmodel.MainActivityViewModel;
+import com.hpdeveloper.mvvmandroid.R;
+import com.hpdeveloper.mvvmandroid.databinding.ActivityMainBinding;
+import com.hpdeveloper.mvvmandroid.view.MainActivityView;
+import com.hpdeveloper.mvvmandroid.viewmodel.MainActivityViewModel;
+
 
 public class MainActivity extends BaseActivity<ActivityMainBinding, MainActivityViewModel> implements MainActivityView, View.OnClickListener {
 

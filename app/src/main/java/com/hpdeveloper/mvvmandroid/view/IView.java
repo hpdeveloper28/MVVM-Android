@@ -1,4 +1,4 @@
-package mobiquity.mvvmsample.view;
+package com.hpdeveloper.mvvmandroid.view;
 
 /**
  * Created by hirenpatel on 13/10/17.

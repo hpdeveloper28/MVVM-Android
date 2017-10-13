@@ -1,4 +1,4 @@
-package mobiquity.mvvmsample.viewmodel;
+package com.hpdeveloper.mvvmandroid.viewmodel;
 
 import android.content.Intent;
 
@@ -9,7 +9,7 @@ import io.reactivex.Observer;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
-import mobiquity.mvvmsample.view.MainActivityView;
+import com.hpdeveloper.mvvmandroid.view.MainActivityView;
 
 /**
  * Created by hirenpatel on 13/10/17.
